@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: &nbsp; [Github](https://github.com/Y1a2s3h4/Newsletter-sign-up-form-with-success-message-solution)
-- Live Site URL: &nbsp; [Vercel](https://your-live-site-url.com)
+- Live Site URL: &nbsp; [Vercel](https://newsletter-sign-up-form-with-success-message-solution-one.vercel.app/)
 
 ## My process
 
