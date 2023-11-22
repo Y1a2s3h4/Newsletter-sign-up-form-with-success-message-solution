@@ -1,7 +1,7 @@
 import RightImgDesktop from "./assets/illustration-sign-up-desktop.svg";
 import RightImgMobile from "./assets/illustration-sign-up-mobile.svg";
 import SuccessCorrect from "./assets/icon-list.svg"
-import "./app.css";
+import "./App.css";
 import { useState } from "react";
 export default function App() {
   
